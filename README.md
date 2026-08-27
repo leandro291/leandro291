@@ -78,14 +78,16 @@ Control de stock multi-empresa: productos, categorías, almacenes, proveedores y
 
 ### Otros proyectos
 
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| [coral-ecommerce-platform](https://github.com/leandro291/coral-ecommerce-platform) | E-commerce minimalista sin frameworks | HTML5 · CSS3 · JS |
-| [cafe-de-leo-landing](https://github.com/leandro291/cafe-de-leo-landing) | Landing de marca de café artesanal | HTML5 · CSS3 |
-| [mcdonalds-landing-clone](https://github.com/leandro291/mcdonalds-landing-clone) | Clon de interfaz a pixel | HTML5 · CSS3 |
-| [react-interactive-dashboard](https://github.com/leandro291/react-interactive-dashboard) | Panel con APIs Rick & Morty y Pokémon | React · Zustand |
-| [blog-django](https://github.com/leandro291/blog-django) | API de blog con DRF | Django · DRF |
-| [php-dompdf-billing](https://github.com/leandro291/php-dompdf-billing) | Generador de boletas en PDF | PHP · dompdf |
+| Proyecto | Qué es | Stack | Demo |
+|---|---|---|---|
+| [uni-react](https://github.com/leandro291/uni-react) · [uni-django](https://github.com/leandro291/uni-django) | Plataforma de gestión universitaria: alumnos, cursos y matrículas | React · Django · DRF | [ver](https://uni-react-lilac.vercel.app) |
+| [slotly-django](https://github.com/leandro291/slotly-django) | API de agendas y reservas de turnos | Django · DRF · JWT | — |
+| [jira-django](https://github.com/leandro291/jira-django) | API de gestión de proyectos y tareas al estilo Jira | Django · DRF | — |
+| [react-interactive-dashboard](https://github.com/leandro291/react-interactive-dashboard) | Panel que consume las APIs de Rick & Morty y Pokémon | React · Zustand | [ver](https://dashboard-react-nine-coral.vercel.app) |
+| [coral-ecommerce-platform](https://github.com/leandro291/coral-ecommerce-platform) | E-commerce minimalista sin frameworks | HTML5 · CSS3 · JS | [ver](https://leandro291.github.io/coral-ecommerce-platform/) |
+| [barberia-mvc](https://github.com/leandro291/barberia-mvc) | Reservas para barbería con arquitectura MVC | PHP · MySQL | — |
+| [bd-mom](https://github.com/leandro291/bd-mom) | App de escritorio offline con base de datos local | Tauri · React · SQLite | — |
+| [php-dompdf-billing](https://github.com/leandro291/php-dompdf-billing) | Generador de boletas en PDF | PHP · dompdf | — |
 
 <br>
 
