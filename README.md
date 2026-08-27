@@ -92,8 +92,12 @@ Control de stock multi-empresa: productos, categorías, almacenes, proveedores y
 ## Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandro291&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estadísticas de GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro291&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Lenguajes más usados" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandro291&theme=github_dark" alt="Resumen del perfil">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leandro291&theme=github_dark" alt="Lenguajes por repositorio" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandro291&theme=github_dark" alt="Lenguajes por commits" height="200">
 </p>
 
 <p align="center">
