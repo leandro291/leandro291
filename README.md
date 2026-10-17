@@ -71,8 +71,8 @@ Tienda completa: catálogo, carrito persistente, checkout y control de stock at�
 Control de stock multi-empresa: productos, categorías, almacenes, proveedores y movimientos de entrada/salida. API en Flask con validación Pydantic y documentación Swagger; frontend React 19 organizado por dominios.
 
 <a href="https://inventory-frontend-mu-fawn.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"></a>
-<a href="https://github.com/leandro291/inventory_frontend"><img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"></a>
-<a href="https://github.com/leandro291/inventory_backend"><img src="https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Backend"></a>
+<a href="https://github.com/leandro291/inventory-frontend"><img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"></a>
+<a href="https://github.com/leandro291/inventory-backend"><img src="https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Backend"></a>
 
 <br>
 
