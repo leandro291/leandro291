@@ -64,8 +64,8 @@ Plataforma tipo Google Classroom. El profesor crea clases, publica material y ta
 Tienda completa: catálogo, carrito persistente, checkout y control de stock atómico. El backend usa *snapshots* de producto y dirección al momento de la compra, para que un cambio de precio no altere pedidos ya hechos.
 
 <a href="https://furniro-react-ecommerce.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"></a>
-<a href="https://github.com/leandro291/furniro-react-ecommerce"><img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"></a>
-<a href="https://github.com/leandro291/furniro-ecommerce-backend"><img src="https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Backend"></a>
+<a href="https://github.com/leandro291/furniro-react"><img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"></a>
+<a href="https://github.com/leandro291/furniro-django"><img src="https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Backend"></a>
 
 ### Inventory — gestión de inventarios
 Control de stock multi-empresa: productos, categorías, almacenes, proveedores y movimientos de entrada/salida. API en Flask con validación Pydantic y documentación Swagger; frontend React 19 organizado por dominios.
